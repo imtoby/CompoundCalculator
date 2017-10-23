@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>qml/CompoundCalculator.qml</file>
+        <file>qml/CalculationFactor.qml</file>
+    </qresource>
+</RCC>
